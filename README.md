@@ -12,7 +12,7 @@ In January 2000, at just 10 years old, I joined a website called LiveJournal. I 
 > Back to the floor, that I love /
 > To a room with some lace and paper flowers /
 > Back to the gypsy that I was /
-> To the gypsy... that I was /
+> To the gypsy... that I was 
 
 Little did I know that joining that site would spark a habit of writing a personal diary entry every single day for the last 25+ years. 
 
