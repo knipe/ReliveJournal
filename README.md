@@ -24,4 +24,4 @@ So, I went back to the roots of the early web, took the classic LiveJournal layo
 
 * Classic Early-2000s UI: Faithful `[entries]`, `[userinfo]`, and `[calendar]` navigation wrapped in a bold, high-contrast retro Pink Panther theme.
 * Distraction-Free Writing: Designed purely for long-form, chronological diary entries—no feeds, no likes, no algorithms.
-* Lightweight & Indie-Web Ready: Static-friendly architecture hosted on Neocities (`homedifferently.neocities.org`)[cite: 1].
+* Lightweight & Indie-Web Ready: Static-friendly architecture hosted by yours truly.
