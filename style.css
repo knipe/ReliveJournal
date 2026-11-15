@@ -1,0 +1,134 @@
+
+/* 
+   Retro Journal Theme
+   Inspired by classic DeadJournal / LiveJournal layouts.
+   Free to customise and reuse.
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background: #ff69b4;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+a {
+    color: #c00035;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #ff1493;
+}
+
+/* Main journal container */
+
+#container {
+    width: 760px;
+    max-width: 100%;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #b00035;
+}
+
+/* Header */
+
+#header {
+    background: #e0003c;
+    color: #fff;
+    padding: 25px 15px;
+    text-align: center;
+}
+
+#header h1 {
+    margin: 0;
+    font-family: Georgia, serif;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+#header p {
+    margin: 8px 0 0;
+    font-size: 11px;
+}
+
+/* Navigation */
+
+#navigation {
+    background: #ffc0cb;
+    padding: 9px;
+    text-align: center;
+    border-bottom: 1px solid #d00040;
+}
+
+#navigation a {
+    margin: 0 10px;
+    color: #99002e;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Journal content */
+
+#content {
+    padding: 15px;
+}
+
+.entry {
+    margin-bottom: 25px;
+    border: 1px solid #ddd;
+    background: #fff;
+}
+
+.entry-header {
+    background: #e0003c;
+    color: #fff;
+    padding: 7px 10px;
+    font-weight: bold;
+}
+
+.entry-body {
+    padding: 12px;
+    line-height: 1.6;
+}
+
+.entry-footer {
+    background: #ffe4ec;
+    border-top: 1px solid #f2b5c5;
+    padding: 7px 10px;
+    font-size: 10px;
+    color: #666;
+}
+
+/* Footer */
+
+#footer {
+    background: #ffc0cb;
+    padding: 12px;
+    text-align: center;
+    font-size: 10px;
+    border-top: 1px solid #d00040;
+}
+
+/* Smaller screens */
+
+@media (max-width: 600px) {
+    body {
+        padding: 5px;
+    }
+
+    #header h1 {
+        font-size: 24px;
+    }
+
+    #navigation a {
+        display: inline-block;
+        margin: 5px;
+    }
+}
