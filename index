@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Retro Journal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="container">
+
+    <header id="header">
+        <h1>My Journal</h1>
+        <p>a little corner of the internet</p>
+    </header>
+
+    <nav id="navigation">
+        <a href="index.html">Journal</a>
+        <a href="profile.html">Profile</a>
+        <a href="calendar.html">Calendar</a>
+    </nav>
+
+    <main id="content">
+
+        <article class="entry">
+            <div class="entry-header">
+                November 15, 2026
+            </div>
+
+            <div class="entry-body">
+                <p>Write your journal entry here.</p>
+                <p>You can add as many paragraphs as you like.</p>
+            </div>
+
+            <div class="entry-footer">
+                Posted at 14:54 | Mood: Okay | Music: Your song
+            </div>
+        </article>
+
+    </main>
+
+    <footer id="footer">
+        Made with love and a little nostalgia.
+    </footer>
+
+</div>
+
+</body>
+</html>
